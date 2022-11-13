@@ -28,4 +28,3 @@ let str = `{"return":
 
 1234
 
-If I will pass the new object and a key than the output will also change.
