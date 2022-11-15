@@ -1,5 +1,9 @@
 # We have a nested object. We would like a function where you pass in the object and a key and get back the value. 
 
+### What is nested object?
+
+The basic definition of an object in JavaScript is a container for named values called properties (keys). Sometimes, we need to create an object inside another object. In this case, it's called a nested object.
+
 ### Below is the code for the same.
 
   ```
